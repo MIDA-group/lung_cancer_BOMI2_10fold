@@ -1,0 +1,299 @@
+ID,Histology,Age,Sex,Smoking,Stage (7th ed.),Performance status (WHO),Follow-up (days),Dead/Alive
+400,Adenocarcinoma,78,Male,Never-smoker,IIa,1,1233,Dead
+401,Adenocarcinoma,74,Male,Ex-smoker,IIIa,1,1888,Dead
+402,Adenocarcinoma,74,Female,Current smoker,Ia,0,4656,Alive
+405,Adenocarcinoma,64,Male,Never-smoker,Ib,0,3523,Dead
+406,Squamous cell carcinoma,64,Male,Current smoker,Ia,0,4491,Alive
+407,Adenocarcinoma,63,Female,Ex-smoker,Ia,0,2114,Dead
+409,Adenocarcinoma,61,Female,Current smoker,Ib,0,1187,Dead
+410,Adenocarcinoma,58,Female,Never-smoker,Ia,0,4585,Alive
+412,Adenocarcinoma,83,Female,Ex-smoker,Ia,1,1252,Dead
+413,Adenocarcinoma,72,Female,Ex-smoker,IIIa,0,313,Dead
+414,Other,71,Male,Current smoker,Ib,0,846,Dead
+415,Adenocarcinoma,70,Female,Never-smoker,Ia,0,3034,Dead
+416,Squamous cell carcinoma,70,Male,Ex-smoker,IIb,0,1704,Dead
+417,Other,65,Male,Current smoker,Ib,0,385,Dead
+419,Adenocarcinoma,61,Female,Ex-smoker,IV,0,1976,Dead
+420,Squamous cell carcinoma,57,Female,Current smoker,IIb,1,295,Dead
+421,Adenocarcinoma,47,Male,Current smoker,IIa,1,1067,Dead
+439,Adenocarcinoma,80,Male,Ex-smoker,IIb,1,2773,Dead
+440,Adenocarcinoma,80,Male,Ex-smoker,IIb,0,651,Dead
+441,Other,78,Male,Current smoker,IIb,1,2344,Dead
+442,Squamous cell carcinoma,75,Female,Current smoker,Ib,1,2433,Dead
+444,Squamous cell carcinoma,74,Female,Ex-smoker,IIb,1,4723,Dead
+445,Adenocarcinoma,74,Female,Current smoker,Ia,2,533,Dead
+446,Adenocarcinoma,71,Female,Ex-smoker,IIb,0,415,Dead
+447,Squamous cell carcinoma,67,Male,Ex-smoker,IIb,0,4637,Alive
+448,Adenocarcinoma,65,Male,Current smoker,Ib,1,634,Dead
+449,Adenocarcinoma,65,Male,Current smoker,Ia,0,3690,Dead
+450,Adenocarcinoma,64,Male,Current smoker,Ia,1,385,Dead
+452,Squamous cell carcinoma,62,Male,Ex-smoker,IIIa,0,3115,Dead
+454,Squamous cell carcinoma,58,Female,Never-smoker,Ia,0,422,Dead
+455,Adenocarcinoma,52,Female,Current smoker,Ia,0,4749,Alive
+456,Squamous cell carcinoma,48,Male,Current smoker,IIa,1,1660,Dead
+457,Squamous cell carcinoma,46,Female,Current smoker,IIa,0,4335,Alive
+459,Squamous cell carcinoma,75,Male,Never-smoker,IIa,0,3276,Dead
+461,Squamous cell carcinoma,70,Male,Current smoker,Ib,0,4631,Alive
+462,Adenocarcinoma,67,Male,Ex-smoker,IIIa,0,568,Dead
+463,Adenocarcinoma,67,Female,Ex-smoker,Ib,0,449,Dead
+464,Squamous cell carcinoma,66,Male,Ex-smoker,Ib,0,1935,Dead
+468,Squamous cell carcinoma,53,Male,Current smoker,Ib,0,4438,Alive
+470,Squamous cell carcinoma,78,Female,Current smoker,Ib,0,1774,Dead
+471,Other,76,Male,Never-smoker,Ib,0,1616,Dead
+472,Squamous cell carcinoma,71,Male,Current smoker,Ib,1,423,Dead
+473,Adenocarcinoma,66,Female,Current smoker,Ia,0,3665,Dead
+474,Squamous cell carcinoma,64,Female,Current smoker,Ia,0,2824,Dead
+477,Other,74,Male,Never-smoker,IIa,0,1084,Dead
+478,Squamous cell carcinoma,74,Female,Current smoker,IIa,1,2269,Dead
+479,Squamous cell carcinoma,71,Female,Current smoker,Ib,1,4294,Alive
+480,Other,71,Female,Current smoker,IIa,0,1408,Dead
+481,Adenocarcinoma,70,Female,Current smoker,Ia,0,2047,Alive
+482,Adenocarcinoma,70,Female,Current smoker,Ib,1,2047,Alive
+484,Adenocarcinoma,64,Female,Ex-smoker,Ia,0,4329,Alive
+485,Squamous cell carcinoma,63,Male,Never-smoker,IIb,1,130,Dead
+487,Squamous cell carcinoma,62,Male,Ex-smoker,IIIa,0,503,Dead
+488,Squamous cell carcinoma,61,Female,Current smoker,IIa,1,4265,Dead
+490,Squamous cell carcinoma,58,Male,Current smoker,Ia,0,716,Dead
+491,Adenocarcinoma,58,Male,Current smoker,IIIa,1,626,Dead
+492,Other,57,Male,Current smoker,Ia,0,107,Dead
+494,Adenocarcinoma,56,Male,Current smoker,IIa,1,60,Dead
+496,Squamous cell carcinoma,77,Male,Current smoker,Ib,1,4195,Alive
+497,Adenocarcinoma,77,Male,Ex-smoker,IIa,1,346,Dead
+504,Adenocarcinoma,65,Female,Ex-smoker,Ia,1,1295,Dead
+511,Adenocarcinoma,56,Female,Never-smoker,IIIa,0,3721,Dead
+529,Squamous cell carcinoma,79,Female,Ex-smoker,Ia,1,4209,Alive
+530,Adenocarcinoma,76,Female,Current smoker,IIa,0,308,Dead
+531,Adenocarcinoma,74,Male,Ex-smoker,Ib,1,928,Dead
+532,Squamous cell carcinoma,69,Female,Ex-smoker,Ia,1,301,Dead
+535,Other,65,Male,Ex-smoker,Ib,0,4267,Alive
+536,Other,64,Male,Ex-smoker,Ia,0,4058,Dead
+537,Adenocarcinoma,56,Male,Ex-smoker,IV,1,195,Dead
+538,Other,56,Male,Current smoker,IIa,0,151,Dead
+539,Squamous cell carcinoma,78,Male,Ex-smoker,Ib,1,370,Dead
+541,Adenocarcinoma,70,Female,Never-smoker,IIIa,1,915,Dead
+542,Adenocarcinoma,66,Female,Never-smoker,IIb,0,4126,Alive
+543,Adenocarcinoma,65,Male,Current smoker,Ia,0,4145,Alive
+544,Adenocarcinoma,62,Male,Ex-smoker,Ib,0,4278,Alive
+545,Adenocarcinoma,60,Female,Never-smoker,Ia,1,4308,Alive
+548,Adenocarcinoma,76,Female,Current smoker,Ia,0,686,Dead
+552,Adenocarcinoma,70,Female,Ex-smoker,IIa,1,1092,Dead
+554,Squamous cell carcinoma,67,Male,Ex-smoker,Ib,0,4308,Alive
+555,Adenocarcinoma,76,Female,Ex-smoker,Ia,0,3,Dead
+557,Adenocarcinoma,81,Female,Never-smoker,Ib,1,4014,Alive
+558,Adenocarcinoma,79,Female,Never-smoker,Ib,1,4077,Alive
+559,Squamous cell carcinoma,72,Male,Current smoker,IIb,1,3249,Dead
+560,Adenocarcinoma,69,Male,Current smoker,Ia,1,170,Dead
+561,Adenocarcinoma,62,Female,Current smoker,Ia,1,3977,Alive
+562,Adenocarcinoma,62,Male,Current smoker,IIIa,0,4098,Alive
+565,Adenocarcinoma,59,Female,Ex-smoker,Ib,0,543,Dead
+566,Adenocarcinoma,58,Male,Ex-smoker,Ib,0,3923,Alive
+568,Squamous cell carcinoma,77,Female,Current smoker,IIb,1,71,Dead
+572,Squamous cell carcinoma,58,Male,Current smoker,Ia,1,3966,Alive
+584,Adenocarcinoma,74,Male,Ex-smoker,Ia,0,0,Dead
+585,Adenocarcinoma,70,Female,Ex-smoker,IIa,2,402,Dead
+589,Adenocarcinoma,71,Male,Current smoker,IIIa,1,503,Dead
+592,Squamous cell carcinoma,61,Male,Current smoker,Ib,1,3802,Alive
+595,Adenocarcinoma,60,Female,Current smoker,Ia,0,3887,Dead
+599,Adenocarcinoma,80,Male,Ex-smoker,Ib,0,2083,Dead
+600,Adenocarcinoma,62,Male,Ex-smoker,IIIa,1,190,Dead
+601,Adenocarcinoma,75,Male,Current smoker,Ib,2,2068,Dead
+602,Adenocarcinoma,69,Female,Current smoker,Ia,1,3711,Alive
+603,Adenocarcinoma,70,Female,Ex-smoker,Ib,0,972,Dead
+604,Squamous cell carcinoma,67,Male,Current smoker,IIa,1,286,Dead
+605,Adenocarcinoma,74,Female,Current smoker,Ia,0,3060,Dead
+606,Adenocarcinoma,55,Male,Ex-smoker,Ia,0,3770,Alive
+608,Other,73,Male,Ex-smoker,Ia,0,3784,Alive
+611,Other,63,Male,Current smoker,Ia,0,520,Dead
+613,Adenocarcinoma,72,Male,Current smoker,IIIa,1,19,Dead
+614,Squamous cell carcinoma,75,Male,Ex-smoker,IIb,1,225,Dead
+616,Adenocarcinoma,54,Male,Current smoker,Ia,0,410,Dead
+618,Other,55,Female,Current smoker,Ia,0,1574,Dead
+619,Adenocarcinoma,68,Female,Ex-smoker,IIIa,1,1905,Dead
+620,Adenocarcinoma,70,Female,Current smoker,IIIa,1,338,Dead
+621,Adenocarcinoma,79,Female,Ex-smoker,IIIa,1,1487,Dead
+623,Adenocarcinoma,74,Female,Current smoker,Ia,1,719,Dead
+626,Adenocarcinoma,76,Female,Current smoker,Ia,0,1994,Dead
+628,Other,63,Male,Never-smoker,IIa,0,3704,Alive
+631,Adenocarcinoma,69,Female,Current smoker,Ia,0,860,Dead
+632,Other,70,Male,Current smoker,Ia,1,2195,Dead
+633,Squamous cell carcinoma,77,Female,Current smoker,Ia,0,3536,Alive
+635,Other,73,Female,Never-smoker,Ia,1,1278,Dead
+637,Adenocarcinoma,61,Male,Ex-smoker,Ia,0,3538,Alive
+638,Adenocarcinoma,65,Male,Ex-smoker,Ia,1,3510,Alive
+639,Adenocarcinoma,69,Male,Never-smoker,Ia,0,1633,Dead
+640,Other,67,Male,Current smoker,Ia,1,3522,Alive
+641,Adenocarcinoma,66,Female,Ex-smoker,Ib,1,1956,Dead
+642,Squamous cell carcinoma,67,Male,Ex-smoker,Ib,0,1167,Dead
+644,Squamous cell carcinoma,67,Male,Current smoker,Ia,1,282,Dead
+647,Other,80,Female,Current smoker,Ia,1,296,Dead
+649,Adenocarcinoma,63,Female,Current smoker,Ia,1,3466,Alive
+650,Squamous cell carcinoma,69,Female,Never-smoker,Ib,0,986,Dead
+652,Squamous cell carcinoma,82,Male,Ex-smoker,Ia,1,5,Dead
+654,Adenocarcinoma,75,Female,Ex-smoker,IV,1,563,Dead
+655,Squamous cell carcinoma,62,Male,Ex-smoker,IIa,0,1603,Dead
+656,Adenocarcinoma,58,Male,Current smoker,Ia,0,3661,Alive
+658,Squamous cell carcinoma,65,Female,Ex-smoker,IIb,1,3171,Dead
+661,Squamous cell carcinoma,66,Male,Current smoker,Ia,0,1123,Dead
+662,Adenocarcinoma,66,Male,Ex-smoker,Ia,0,865,Dead
+663,Adenocarcinoma,62,Female,Current smoker,Ib,0,3452,Alive
+666,Squamous cell carcinoma,61,Female,Current smoker,Ib,0,2087,Dead
+668,Other,69,Female,Ex-smoker,Ib,0,3348,Alive
+669,Other,76,Female,Current smoker,Ib,1,3363,Dead
+670,Adenocarcinoma,70,Female,Never-smoker,Ia,0,3459,Alive
+673,Adenocarcinoma,74,Female,Ex-smoker,Ia,1,568,Dead
+674,Adenocarcinoma,76,Female,Current smoker,Ia,0,814,Dead
+677,Adenocarcinoma,70,Male,Current smoker,Ib,0,362,Dead
+678,Adenocarcinoma,65,Female,Ex-smoker,Ib,1,1114,Dead
+679,Adenocarcinoma,51,Female,Never-smoker,Ia,0,2699,Dead
+680,Squamous cell carcinoma,62,Female,Current smoker,IIa,0,1190,Dead
+681,Adenocarcinoma,60,Male,Current smoker,IIIa,0,961,Dead
+682,Adenocarcinoma,64,Female,Ex-smoker,IIb,0,840,Dead
+683,Adenocarcinoma,77,Female,Current smoker,IIa,0,612,Dead
+685,Squamous cell carcinoma,71,Female,Ex-smoker,IIb,0,3378,Alive
+686,Adenocarcinoma,61,Female,Ex-smoker,Ib,0,3391,Alive
+688,Adenocarcinoma,57,Male,Current smoker,IIIa,0,789,Dead
+690,Adenocarcinoma,75,Male,Current smoker,Ia,1,3389,Alive
+693,Squamous cell carcinoma,65,Female,Current smoker,Ib,0,3480,Alive
+694,Adenocarcinoma,60,Female,Current smoker,Ia,0,3391,Alive
+695,Adenocarcinoma,68,Female,Never-smoker,Ib,0,1762,Dead
+696,Adenocarcinoma,60,Male,Never-smoker,Ia,0,3327,Alive
+697,Adenocarcinoma,52,Male,Current smoker,Ia,0,1059,Dead
+700,Squamous cell carcinoma,73,Female,Current smoker,Ia,1,3455,Dead
+701,Adenocarcinoma,68,Female,Ex-smoker,Ia,1,1717,Dead
+702,Other,65,Male,Current smoker,Ib,1,648,Dead
+704,Squamous cell carcinoma,75,Male,Ex-smoker,IIIa,0,1915,Dead
+707,Adenocarcinoma,69,Male,Current smoker,Ia,1,763,Dead
+708,Adenocarcinoma,69,Male,Current smoker,IIIa,0,451,Dead
+710,Adenocarcinoma,72,Female,Ex-smoker,IIa,0,3209,Alive
+711,Adenocarcinoma,68,Female,Current smoker,IIb,1,652,Dead
+712,Squamous cell carcinoma,61,Male,Current smoker,Ia,0,3132,Alive
+714,Squamous cell carcinoma,56,Male,Current smoker,IIa,0,1476,Dead
+715,Squamous cell carcinoma,69,Female,Current smoker,IIIa,1,150,Dead
+717,Adenocarcinoma,66,Male,Ex-smoker,Ia,0,3564,Dead
+718,Squamous cell carcinoma,77,Female,Current smoker,Ib,1,3308,Alive
+719,Squamous cell carcinoma,63,Male,Current smoker,Ib,1,2729,Dead
+721,Adenocarcinoma,60,Male,Ex-smoker,IIa,0,1211,Dead
+723,Squamous cell carcinoma,67,Male,Current smoker,IIa,0,433,Dead
+724,Other,67,Female,Current smoker,IIIa,1,2524,Dead
+725,Adenocarcinoma,64,Female,Current smoker,Ia,0,3264,Alive
+728,Adenocarcinoma,77,Male,Ex-smoker,IIb,1,1128,Dead
+729,Adenocarcinoma,56,Female,Current smoker,Ia,0,1053,Dead
+730,Other,74,Male,Ex-smoker,Ia,1,1903,Dead
+732,Adenocarcinoma,73,Male,Ex-smoker,Ib,1,56,Dead
+734,Squamous cell carcinoma,68,Male,Current smoker,Ib,0,297,Dead
+736,Squamous cell carcinoma,67,Male,Current smoker,Ia,0,1195,Dead
+737,Squamous cell carcinoma,69,Male,Ex-smoker,Ia,1,1394,Dead
+738,Adenocarcinoma,74,Female,Ex-smoker,Ib,1,1314,Dead
+739,Squamous cell carcinoma,49,Female,Current smoker,IIIa,0,352,Dead
+741,Other,64,Male,Current smoker,IIb,0,256,Dead
+743,Adenocarcinoma,64,Female,Never-smoker,Ia,0,3266,Alive
+744,Squamous cell carcinoma,75,Male,Ex-smoker,Ia,1,3048,Alive
+745,Squamous cell carcinoma,69,Female,Never-smoker,Ib,0,3308,Alive
+746,Adenocarcinoma,64,Female,Current smoker,IIIa,0,594,Dead
+747,Squamous cell carcinoma,74,Female,Ex-smoker,Ia,0,1112,Dead
+748,Adenocarcinoma,60,Male,Current smoker,Ia,0,3230,Alive
+749,Adenocarcinoma,49,Female,Current smoker,IIIa,1,189,Dead
+750,Adenocarcinoma,62,Male,Current smoker,Ia,0,1742,Dead
+751,Squamous cell carcinoma,59,Female,Current smoker,IIIa,0,3034,Alive
+752,Adenocarcinoma,65,Male,Ex-smoker,IIIa,0,3081,Alive
+753,Squamous cell carcinoma,61,Male,Ex-smoker,IIa,0,3139,Alive
+755,Squamous cell carcinoma,82,Male,Current smoker,IIa,1,227,Dead
+757,Adenocarcinoma,60,Male,Ex-smoker,Ia,0,2385,Dead
+758,Squamous cell carcinoma,84,Male,Ex-smoker,Ia,1,1562,Dead
+760,Squamous cell carcinoma,80,Male,Ex-smoker,IIa,1,3185,Dead
+762,Other,58,Male,Ex-smoker,IIa,1,3111,Alive
+766,Adenocarcinoma,59,Male,Ex-smoker,Ib,1,3227,Alive
+767,Squamous cell carcinoma,67,Male,Ex-smoker,Ia,1,3152,Alive
+768,Adenocarcinoma,60,Male,Ex-smoker,IIIa,0,472,Dead
+769,Adenocarcinoma,76,Male,Ex-smoker,IIa,0,3129,Alive
+771,Adenocarcinoma,68,Female,Current smoker,Ib,0,3091,Alive
+772,Adenocarcinoma,75,Female,Never-smoker,IIa,0,340,Dead
+773,Adenocarcinoma,64,Female,Ex-smoker,IV,1,311,Dead
+776,Adenocarcinoma,72,Male,Never-smoker,Ia,0,2969,Alive
+777,Adenocarcinoma,77,Male,Current smoker,Ia,0,323,Dead
+778,Adenocarcinoma,65,Female,Ex-smoker,Ia,0,1821,Dead
+779,Squamous cell carcinoma,75,Female,Current smoker,Ia,0,2666,Dead
+780,Adenocarcinoma,67,Male,Current smoker,IIa,1,1032,Dead
+781,Other,66,Female,Current smoker,Ib,1,1665,Dead
+782,Adenocarcinoma,73,Female,Ex-smoker,IIb,0,4805,Alive
+784,Adenocarcinoma,55,Female,Current smoker,Ib,1,121,Dead
+785,Other,55,Male,Ex-smoker,Ia,0,3111,Alive
+786,Adenocarcinoma,78,Female,Never-smoker,IIIa,1,1499,Dead
+787,Squamous cell carcinoma,67,Female,Ex-smoker,Ib,1,2837,Dead
+788,Squamous cell carcinoma,54,Female,Current smoker,Ia,1,4819,Alive
+789,Squamous cell carcinoma,77,Male,Ex-smoker,Ib,1,2672,Dead
+791,Adenocarcinoma,66,Female,Current smoker,IIIa,1,368,Dead
+792,Adenocarcinoma,65,Female,Current smoker,Ib,0,2660,Dead
+793,Adenocarcinoma,67,Female,Current smoker,Ib,0,4377,Alive
+797,Adenocarcinoma,76,Male,Ex-smoker,IIa,1,795,Dead
+798,Adenocarcinoma,60,Male,Current smoker,Ib,0,258,Dead
+800,Adenocarcinoma,66,Female,Current smoker,Ia,0,2417,Dead
+802,Adenocarcinoma,62,Female,Current smoker,Ia,0,773,Dead
+803,Squamous cell carcinoma,62,Male,Current smoker,Ia,1,1355,Dead
+805,Squamous cell carcinoma,77,Male,Current smoker,Ia,1,771,Dead
+806,Squamous cell carcinoma,63,Male,Current smoker,Ib,0,629,Dead
+807,Other,64,Male,Current smoker,IIIa,1,4406,Alive
+808,Adenocarcinoma,48,Female,Ex-smoker,Ia,1,3001,Alive
+809,Other,72,Male,Current smoker,IIIa,0,794,Dead
+810,Adenocarcinoma,64,Female,Current smoker,IIIa,1,625,Dead
+813,Adenocarcinoma,57,Female,Never-smoker,IIb,0,277,Dead
+814,Adenocarcinoma,73,Male,Ex-smoker,IIIa,0,3900,Alive
+815,Other,79,Male,Ex-smoker,IIa,1,39,Dead
+816,Adenocarcinoma,73,Female,Ex-smoker,IIa,0,353,Dead
+817,Squamous cell carcinoma,76,Female,Ex-smoker,IIIa,0,1279,Dead
+818,Squamous cell carcinoma,67,Male,Ex-smoker,Ib,1,3530,Dead
+819,Squamous cell carcinoma,67,Female,Current smoker,Ia,1,917,Dead
+820,Squamous cell carcinoma,73,Female,Ex-smoker,Ia,0,3170,Dead
+823,Adenocarcinoma,65,Female,Current smoker,Ia,0,3804,Alive
+826,Adenocarcinoma,45,Female,Never-smoker,IV,0,935,Dead
+827,Adenocarcinoma,70,Male,Ex-smoker,IIb,0,1105,Dead
+828,Adenocarcinoma,68,Female,Never-smoker,IIb,0,3656,Alive
+829,Adenocarcinoma,76,Male,Never-smoker,Ia,0,3521,Dead
+830,Adenocarcinoma,58,Male,Ex-smoker,Ia,0,707,Dead
+831,Adenocarcinoma,62,Female,Current smoker,Ib,0,2920,Dead
+832,Adenocarcinoma,65,Female,Ex-smoker,Ia,0,3579,Alive
+834,Other,69,Female,Ex-smoker,Ia,0,3551,Alive
+835,Adenocarcinoma,57,Female,Ex-smoker,Ia,0,1315,Dead
+838,Adenocarcinoma,71,Female,Current smoker,Ia,1,1005,Dead
+839,Adenocarcinoma,74,Male,Ex-smoker,Ib,1,3488,Alive
+840,Adenocarcinoma,62,Male,Current smoker,IIIa,1,150,Dead
+841,Adenocarcinoma,76,Female,Ex-smoker,Ia,0,982,Dead
+842,Adenocarcinoma,62,Female,Ex-smoker,Ib,0,3161,Dead
+843,Adenocarcinoma,61,Male,Ex-smoker,Ia,0,3425,Alive
+844,Adenocarcinoma,54,Female,Never-smoker,IV,0,1038,Dead
+846,Adenocarcinoma,42,Female,Never-smoker,Ia,0,3319,Dead
+847,Adenocarcinoma,66,Male,Ex-smoker,Ib,1,688,Dead
+848,Other,60,Female,Current smoker,Ia,0,3397,Alive
+850,Adenocarcinoma,77,Male,Current smoker,IIIa,1,997,Dead
+851,Adenocarcinoma,70,Male,Ex-smoker,Ib,1,1315,Dead
+852,Squamous cell carcinoma,64,Male,Current smoker,Ib,0,700,Dead
+853,Squamous cell carcinoma,67,Female,Current smoker,Ia,0,3727,Alive
+854,Squamous cell carcinoma,62,Female,Current smoker,Ib,0,3690,Alive
+855,Squamous cell carcinoma,74,Male,Ex-smoker,Ia,1,1374,Dead
+856,Squamous cell carcinoma,69,Male,Ex-smoker,Ia,1,1465,Dead
+857,Squamous cell carcinoma,69,Male,Ex-smoker,Ib,1,226,Dead
+858,Squamous cell carcinoma,69,Female,Current smoker,IIb,0,558,Dead
+860,Squamous cell carcinoma,77,Male,Current smoker,Ia,0,2813,Dead
+861,Adenocarcinoma,67,Female,Ex-smoker,Ia,0,3537,Alive
+863,Other,67,Male,Never-smoker,Ib,1,927,Dead
+865,Adenocarcinoma,75,Female,Current smoker,IIb,0,3361,Alive
+866,Adenocarcinoma,66,Female,Current smoker,Ib,0,1553,Dead
+867,Adenocarcinoma,62,Female,Current smoker,IIIa,0,317,Dead
+869,Adenocarcinoma,61,Female,Current smoker,IIIa,0,416,Dead
+871,Adenocarcinoma,74,Male,Ex-smoker,Ib,0,873,Dead
+872,Adenocarcinoma,71,Female,Ex-smoker,Ia,1,3227,Alive
+874,Adenocarcinoma,56,Female,Current smoker,IIIa,0,3167,Alive
+875,Adenocarcinoma,69,Female,Current smoker,Ia,0,3109,Alive
+877,Adenocarcinoma,70,Female,Current smoker,Ia,0,3033,Alive
+878,Adenocarcinoma,69,Male,Current smoker,IIIa,1,7,Dead
+879,Adenocarcinoma,75,Male,Current smoker,IV,1,873,Dead
+880,Adenocarcinoma,75,Female,Current smoker,Ia,1,3201,Alive
+881,Squamous cell carcinoma,70,Male,Current smoker,Ib,0,3186,Alive
+882,Squamous cell carcinoma,71,Female,Ex-smoker,Ia,0,3370,Alive
+883,Squamous cell carcinoma,73,Male,Current smoker,IIa,0,1833,Dead
+884,Squamous cell carcinoma,71,Male,Current smoker,IIa,0,5079,Alive
+885,Adenocarcinoma,62,Female,Current smoker,Ia,0,3052,Alive
+886,Squamous cell carcinoma,71,Male,Ex-smoker,Ib,0,1932,Dead
+887,Adenocarcinoma,77,Male,Ex-smoker,Ia,0,374,Dead
+888,Adenocarcinoma,64,Female,Current smoker,Ia,0,3556,Dead
+890,Adenocarcinoma,56,Female,Current smoker,IIb,1,1264,Dead

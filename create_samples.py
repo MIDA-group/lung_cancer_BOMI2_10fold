@@ -79,6 +79,7 @@ samples.to_csv("samples.csv", index=True)
 
 median_survival = patients["Follow-up (days)"].median()
 patients["label"] = (patients["Follow-up (days)"] >= median_survival).astype(int)
+patients["censored"] = patients["Dead/Alive"].map(lambda x: 1 if x== "Dead" else 0)
 patients.to_csv(os.path.join("binary_survival_prediction", "Clinical_data_with_labels.csv"), index=False)
 
 #patients = pd.read_csv(os.path.join("binary_survival_prediction", "Clinical_data_with_labels.csv"))

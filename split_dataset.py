@@ -21,6 +21,9 @@ def k_fold_cross_validation(df, output_dir, labelname="label", n_splits = 10):
         train_val_set = df.iloc[train_index]
         test_set = df.iloc[test_index]
 
+        print(test_set["Dead/Alive"].value_counts())
+        print(test_set["Sex"].value_counts())
+
         train_set, val_set = train_test_split(train_val_set, 
                                            test_size=0.11, 
                                            stratify=train_val_set[labelname], 

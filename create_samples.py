@@ -34,7 +34,7 @@ patients = pd.read_csv("raw_data/Clinical_data_max_20190329.csv")
 
 samples_data = pd.read_csv("raw_data/TIL_tissue_seg_data.txt", sep="\t")
 samples_data = preprocess_samples(samples_data)
-cells_data = pd.read_csv("../rudbeck_intro/to_start_with/BOMI_TIL_merged_cell_seg_data_feats_1.csv")
+cells_data = pd.read_csv("raw_data/BOMI_TIL_merged_cell_seg_data_feats_1.csv")
 
 
 keys = pd.read_csv("raw_data/id_align.csv")
@@ -77,9 +77,13 @@ samples = pd.DataFrame(samples)
 
 samples.to_csv("samples.csv", index=True)
 
-median_survival = patients["Follow-up (days)"].median()
+median_survival = round(patients["Follow-up (days)"].median())
+print(f'Label = Follow-up (days) >= {median_survival:.1f}')
 patients["label"] = (patients["Follow-up (days)"] >= median_survival).astype(int)
-patients["censored"] = patients["Dead/Alive"].map(lambda x: 1 if x== "Dead" else 0)
+patients["censored"] = patients["Dead/Alive"].map(lambda x: 0 if x== "Dead" else 1) #Patient is censored if alive at end of study
+
+age_thresholds=[62,66,70,75]
+patients["age_group"] = patients["Age"].map(lambda x: sum(1 for t in age_thresholds if x>=t)) #AgeGroup = sum(x>=[62,66,70,75])
 patients.to_csv(os.path.join("binary_survival_prediction", "Clinical_data_with_labels.csv"), index=False)
 
 #patients = pd.read_csv(os.path.join("binary_survival_prediction", "Clinical_data_with_labels.csv"))

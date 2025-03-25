@@ -8,7 +8,7 @@ and `raw_data/TIL_tissue_seg_data.txt` (core level info),
 and `raw_data/BOMI_TIL_merged_cell_seg_data_feats_1.csv` (cell level info) 
 and `raw_data/id_align.csv` (patient <-> core mapping),
 generate, in `binary_survival_prediction`,
- `Clinical_data_with_labels.csv` (selected clinical params, and label),
+ `Clinical_data_with_labels.csv` (selected clinical params, and label = 'days>=median_days'),
 and `samples_labels.csv` (tumor and stroma areas for each core, mapped to patient),
 
 ## split_dataset.py

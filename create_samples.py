@@ -30,11 +30,11 @@ def filter_samples(samples, keys, cell_data):
     return samples
 
 
-patients = pd.read_csv("raw_data/Clinical_data_max_20190329.csv")
-
+#patients = pd.read_csv("raw_data/Clinical_data_max_20190329.csv")
+patients = pd.read_csv("raw_data/Clinical_data_AC_SqCC.csv")
 samples_data = pd.read_csv("raw_data/TIL_tissue_seg_data.txt", sep="\t")
 samples_data = preprocess_samples(samples_data)
-cells_data = pd.read_csv("../rudbeck_intro/to_start_with/BOMI_TIL_merged_cell_seg_data_feats_1.csv")
+cells_data = pd.read_csv("BOMI_TIL_merged_cell_seg_data_feats_1.csv")
 
 
 keys = pd.read_csv("raw_data/id_align.csv")
@@ -75,17 +75,18 @@ for sample in samples_data["Sample Name"].unique():
 
 samples = pd.DataFrame(samples)
 
-samples.to_csv("samples.csv", index=True)
+#samples.to_csv("samples.csv", index=True)
 
-median_survival = patients["Follow-up (days)"].median()
-patients["label"] = (patients["Follow-up (days)"] >= median_survival).astype(int)
-patients["censored"] = patients["Dead/Alive"].map(lambda x: 1 if x== "Dead" else 0)
-patients.to_csv(os.path.join("binary_survival_prediction", "Clinical_data_with_labels.csv"), index=False)
+#median_survival = patients["Follow-up (days)"].median()
+#patients["label"] = (patients["Follow-up (days)"] >= median_survival).astype(int)
+patients["label"] = patients["Histology"].map(lambda x: 1 if x == "Adenocarcinoma" else 0)
+#patients["censored"] = patients["Dead/Alive"].map(lambda x: 1 if x== "Dead" else 0)
+patients.to_csv(os.path.join("binary_subtype_prediction_ACvsSqCC", "Clinical_data_with_labels.csv"), index=False)
 
 #patients = pd.read_csv(os.path.join("binary_survival_prediction", "Clinical_data_with_labels.csv"))
 
 samples = samples.merge(patients[["ID", "label"]], on="ID", how="left")
 
-samples.to_csv("binary_survival_prediction/samples_labels.csv", index=False)
+samples.to_csv("binary_subtype_prediction_ACvsSqCC/samples_labels.csv", index=False)
 
 

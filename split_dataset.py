@@ -109,7 +109,11 @@ def leave_one_out_cross_validation(df, output_dir, labelname="label"):
             pd.DataFrame({"ID": split[part]}).to_csv(split_path.replace(".csv", f"_{part}.csv"), index=False)
 """
             
-output_dir = "binary_survival_prediction"
+#output_dir = "binary_survival_prediction"
+#data = pd.read_csv(os.path.join(output_dir, "Clinical_data_with_labels.csv"))
+
+
+output_dir = "binary_subtype_prediction_ACvsSqCC"
 data = pd.read_csv(os.path.join(output_dir, "Clinical_data_with_labels.csv"))
 
 

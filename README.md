@@ -25,57 +25,31 @@ It is intended for machine learning and computational pathology research, in par
 ---
 
 ## Repository Structure
-lung_cancer_BOMI2_dataset/
-
-│
-
-├── binary_survival_prediction/
-
-│ ├── 100foldcrossvalrepeat/
-
-│ │ ├── split_0_train.csv
-
-│ │ ├── split_0_val.csv
-
-│ │ ├── split_0_test.csv
-
-│ │ └── ...
-
-│ ├── 10foldcrossvalrepeat/
-
-│ │ ├── split_0_train.csv
-
-│ │ ├── ...
-
-│ ├── static_split/
-
-│ │ ├── train.csv
-
-│ │ ├── val.csv
-
-│ │ ├── train_val.csv
-
-│ │ └── test.csv
-
-│ ├── Clinical_data_with_labels.csv
-
-│ └── samples_labels.csv
-
-│
-
-├── binary_subtype_prediction/
-
-│ └── (same structure as above)
-
-│
-
-├── binary_subtype_prediction_ACvsSqCC/
-
-│ └── (same structure as above)
-
-│
-
-└── README.md
+lung_cancer_BOMI2_dataset/  
+├── binary_survival_prediction/   
+│ ├── 100foldcrossvalrepeat/  
+│ │ ├── split_0_train.csv  
+│ │ ├── split_0_val.csv  
+│ │ ├── split_0_test.csv  
+│ │ └── ...  
+│ ├── 10foldcrossvalrepeat/  
+│ │ ├── split_0_train.csv  
+│ │ └── ...  
+│ ├── static_split/  
+│ │ ├── train.csv  
+│ │ ├── val.csv  
+│ │ ├── train_val.csv  
+│ │ └── test.csv  
+│ ├── Clinical_data_with_labels.csv  
+│ └── samples_labels.csv  
+│  
+├── binary_subtype_prediction/  
+│ └── (same structure as above)  
+│  
+├── binary_subtype_prediction_ACvsSqCC/  
+│ └── (same structure as above)  
+│  
+└── README.md  
 
 
 
